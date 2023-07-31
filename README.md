@@ -21,7 +21,7 @@ To play! Or rather... to die!
 
 Based on the [Trophy Dark SRD](https://trophyrpg.com/system/) licensed **CC4.0**.
 
-original:
+# Original:
 # Autor
 Todo el sistema ha sido creado por [Regik](https://twitter.com/Regik).
 [WallaceMcGregor](https://twitter.com/WallaceGregor) solo ha colaborado en retocar el aspecto visual y subirlo a los repositorios.

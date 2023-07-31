@@ -1,27 +1,36 @@
 # Author
-The whole system has been created by [Regik](https://twitter.com/Regik).
-[WallaceMcGregor](https://twitter.com/WallaceGregor) has only helped to tweak the visual aspect and upload it to the repositories.
+The foundry world was ogininally created by these fine Spaniards:
+- [Regik] (https://twitter.com/Regik).
+- [WallaceMcGregor](https://twitter.com/WallaceGregor) with helped to tweak the visual aspect and upload it to the repositories.
+
+and additional translation and modernization by Google and Eli i guess.
 
 # manual installation
+Dont! its not ready yet.
 
+translation:
 - Install [Sandbox System Builder](https://gitlab.com/rolnl/sandbox-system-builder/) from [Seregras](https://twitter.com/SeregrasGM).
 - Go to the Foundry VTT **Worlds** folder and unzip the zip there. It should look like `worlds/trophy-dark-srd/`.
 
 
 # Use
+i wouldn't. im mainliy interested with the roll solution to possibly harvest the code to a new system module that is more distributable.
+
+translation:
 - Open Foundry and you can enter the new world. Each new card that you are going to create, where it says **Default** you change it to **PJ**.
 - On the card itself, in the **Roll** section, you enter the number of light and dark dice that the player must roll. Once placed, click on the die that is to the left of the clear die and the roll will be made.
 - The chat card will be displayed with a descriptive result and, in case of using **Dice So Nice**, the dice with the corresponding colors will be rolled.
 
 
-To play! Or rather... to die!
+To play! Or rather... to die! 
+"embrace tragedy! play to lose!"
 
 
 ## License
 
 Based on the [Trophy Dark SRD](https://trophyrpg.com/system/) licensed **CC4.0**.
 
-# Original:
+# Original post from the authors:
 # Autor
 Todo el sistema ha sido creado por [Regik](https://twitter.com/Regik).
 [WallaceMcGregor](https://twitter.com/WallaceGregor) solo ha colaborado en retocar el aspecto visual y subirlo a los repositorios.
